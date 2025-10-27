@@ -1,0 +1,5 @@
+{
+  "name": "Copy of Pour Over Pal",
+  "description": "An application that uses AI to generate the perfect pour-over coffee recipe based on your coffee bean type. Get recommendations for grind setting, water temperature, coffee weight, and water volume.",
+  "requestFramePermissions": []
+}
